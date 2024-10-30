@@ -1,0 +1,11 @@
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.deps.json
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfoInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.AssemblyInfo.cs
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.csproj.CoreCompileInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Domain.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Domain\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Domain.dll

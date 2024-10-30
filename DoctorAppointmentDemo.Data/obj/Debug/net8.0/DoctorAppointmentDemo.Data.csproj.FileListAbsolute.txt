@@ -1,0 +1,15 @@
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\bin\Debug\net8.0\DoctorAppointmentDemo.Data.deps.json
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\bin\Debug\net8.0\DoctorAppointmentDemo.Data.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\bin\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.csproj.AssemblyReference.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.AssemblyInfoInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.AssemblyInfo.cs
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.csproj.CoreCompileInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAp.E6C001E9.Up2Date
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Data.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Data\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Data.dll

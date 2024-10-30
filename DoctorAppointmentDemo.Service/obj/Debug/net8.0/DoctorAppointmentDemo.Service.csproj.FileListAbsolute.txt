@@ -1,0 +1,17 @@
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.deps.json
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Data.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Data.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\bin\Debug\net8.0\DoctorAppointmentDemo.Domain.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.csproj.AssemblyReference.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.AssemblyInfoInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.AssemblyInfo.cs
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.csproj.CoreCompileInputs.cache
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAp.D4975B89.Up2Date
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\refint\DoctorAppointmentDemo.Service.dll
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\DoctorAppointmentDemo.Service.pdb
+D:\User\Документи\GitHub\Homeworks\HW_DoctorAppointment\DoctorAppointmentDemo.Service\obj\Debug\net8.0\ref\DoctorAppointmentDemo.Service.dll

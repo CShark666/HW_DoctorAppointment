@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iZ37OpHtVPE=",
+  "success": true,
+  "projectFilePath": "D:\\User\\Документи\\GitHub\\Homeworks\\HW_DoctorAppointment\\DoctorAppointmentDemo.Service\\DoctorAppointmentDemo.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Taras\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
